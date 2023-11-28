@@ -45,7 +45,7 @@ date /t
 time /t
 echo:
 echo :::::::::::::::::::::::::::::::::::::
-echo ::        CarbonCopy V1.0          ::
+echo ::       Using CarbonCopy V1.0     ::
 echo ::  a tool used for data transfer  ::
 echo :::::::::::::::::::::::::::::::::::::
 echo:
