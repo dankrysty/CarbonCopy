@@ -1,5 +1,5 @@
 ::=================================================================::
-::CarbonCopy V1.0                                                  ::
+::CarbonCopy Migration V1.0                                        ::
 ::Created by Daniel Krysty                                         ::
 ::robocopy to move large data files from one location to another   ::
 ::Built in error checking                                          ::
@@ -44,10 +44,10 @@ hostname
 date /t
 time /t
 echo:
-echo :::::::::::::::::::::::::::::::::::::
-echo ::       Using CarbonCopy V1.0     ::
-echo ::  a tool used for data transfer  ::
-echo :::::::::::::::::::::::::::::::::::::
+echo ::::::::::::::::::::::::::::::::::::::::::
+echo ::    Using CarbonCopy Migration V1.0   ::
+echo ::     a tool used for data transfer    ::
+echo ::::::::::::::::::::::::::::::::::::::::::
 echo:
 :: Show log file location
 echo Log file located at %logFile%
