@@ -1,9 +1,10 @@
 ::=================================================================::
+::CarbonCopy V1.0                                                  ::
 ::Created by Daniel Krysty                                         ::
 ::robocopy to move large data files from one location to another   ::
 ::Built in error checking                                          ::
 ::November 2023                                                    ::
-::=================================================================::     
+::=================================================================::      
     
 copyIt.bat needs to be run with elevation to move files and directories to destination. 
 
@@ -25,7 +26,7 @@ uncomment lines in section
 ---------------------------------------------------------------------------------------------------------
 
 type in >>cd "path_to_copyIt_directory"
-type in >>copyIt.bat %source% %destination%
+type in >>CarbonCopy.bat %source% %destination%
 
 SHIFT+Right Click on folder for source and choose "Copy as Path" paste path in prompt then do the same for destination
 
