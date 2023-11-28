@@ -27,7 +27,7 @@ uncomment lines in section
 type in >>cd "path_to_copyIt_directory"
 type in >>copyIt.bat %source% %destination%
 
-SHIFT=Right Click on folder for source and choose "Copy as Path" paste path in prompt then do the same for destination
+SHIFT+Right Click on folder for source and choose "Copy as Path" paste path in prompt then do the same for destination
 
 It will display main contents of source and destination to help verify before you continue
 
