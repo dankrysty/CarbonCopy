@@ -1,5 +1,5 @@
 ::=================================================================::
-::CarbonCopy Migration V1.0                                                  ::
+::CarbonCopy Migration V1.0                                        ::
 ::Created by Daniel Krysty                                         ::
 ::robocopy to move large data files from one location to another   ::
 ::Built in error checking                                          ::
