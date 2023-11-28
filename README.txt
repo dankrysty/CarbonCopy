@@ -1,5 +1,5 @@
 ::=================================================================::
-::CarbonCopy V1.0                                                  ::
+::CarbonCopy Migration V1.0                                                  ::
 ::Created by Daniel Krysty                                         ::
 ::robocopy to move large data files from one location to another   ::
 ::Built in error checking                                          ::
@@ -25,7 +25,7 @@ uncomment lines in section
 
 ---------------------------------------------------------------------------------------------------------
 
-type in >>cd "path_to_copyIt_directory"
+type in >>cd "path_to_directory"
 type in >>CarbonCopy.bat %source% %destination%
 
 SHIFT+Right Click on folder for source and choose "Copy as Path" paste path in prompt then do the same for destination
@@ -38,7 +38,7 @@ n/N - cancel and exit
 other - invalid
 
 Example:
-copyIt.bat "C:\Users\x0001234\Desktop\SourceFolder" "C:\Users\a0000123\Desktop\DestFolder"
+CarbonCopy.bat "C:\Users\x0001234\Desktop\SourceFolder" "C:\Users\a0000123\Desktop\DestFolder"
 
 ---------------------------------------------------------------------------------------------------------
 
