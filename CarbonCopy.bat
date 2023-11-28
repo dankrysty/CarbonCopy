@@ -1,4 +1,5 @@
 ::=================================================================::
+::CarbonCopy V1.0                                                  ::
 ::Created by Daniel Krysty                                         ::
 ::robocopy to move large data files from one location to another   ::
 ::Built in error checking                                          ::
@@ -44,7 +45,7 @@ date /t
 time /t
 echo:
 echo :::::::::::::::::::::::::::::::::::::
-echo ::        Using CopyIt.bat         ::
+echo ::        CarbonCopy V1.0          ::
 echo ::  a tool used for data transfer  ::
 echo :::::::::::::::::::::::::::::::::::::
 echo:
