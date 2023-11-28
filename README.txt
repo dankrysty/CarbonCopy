@@ -31,7 +31,7 @@ SHIFT+Right Click on folder for source and choose "Copy as Path" paste path in p
 
 It will display main contents of source and destination to help verify before you continue
 
-Then it will ask to continue (y/n) - Defualt it "n"
+Then it will ask to continue (y/n) - Defualt is "n"
 y/Y - copy and log data in log.txt
 n/N - cancel and exit
 other - invalid
